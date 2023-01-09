@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "John Timer",
+  "version": "1.0.0",
+  "description": "Help you calculate your time",
+  "icons" : {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+
+
+  }
+}
